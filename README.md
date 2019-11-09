@@ -13,3 +13,12 @@ Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6 :
 
 3. Buka link http://localhost/arkademy-crud/ pada web browser, maka akan terbuka halaman awal
 ![halaman_awal](https://i.ibb.co/5nB5kGt/halaman-awal.png)
+
+4. Untuk memasukkan data baru klik tombol "ADD" yang berada di navbar
+![halaman_awal](https://i.ibb.co/MRBp8wn/navbar.png)
+
+5. Isi seluruh data lalu tekan tombol "ADD"
+![halaman_awal](https://i.ibb.co/xfM0KmC/add-data.png)
+
+6. Jika data berhasil dimasukkan maka akan ada alert dibawah
+![halaman_awal](https://i.ibb.co/THsqGK5/berhasil-ditambah.png)
