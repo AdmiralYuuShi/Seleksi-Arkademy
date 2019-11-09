@@ -5,9 +5,14 @@ Oleh : Hapid Moch Jamil
 
 Untuk soal no. 1 - no. 5 saya menggunakan bahasa pemrograman Javascript yang dapat dibuka di console browser.
 
-Untuk soal no. 6 saya menggunakan Framework CodeIgniter 3 dan Bootstrap 4 CDN.
+Untuk soal no 6.a, querynya sebagai berikut :
+SELECT product.id, cashier.cashier_name, product.name, category.category_name, product.price FROM (product INNER JOIN cashier ON product.id_cashier=cashier.id) INNER JOIN category ON product.id_category=category.id;
 
-Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6 :
+Untuk soal no 6.b terdapat pada folder "arkademy-static"
+
+Untuk soal no. 6.c terdapat pada folder "arkademy-crud" dan saya menggunakan Framework CodeIgniter 3 dan Bootstrap 4 CDN.
+
+Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6.c :
 
 1. Buka folder arkademy-crud
 
