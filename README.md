@@ -6,6 +6,7 @@ Oleh : Hapid Moch Jamil
 Untuk soal no. 1 - no. 5 saya menggunakan bahasa pemrograman Javascript yang dapat dibuka di console browser.
 
 Untuk soal no 6.a, querynya sebagai berikut :
+
 SELECT product.id, cashier.cashier_name, product.name, category.category_name, product.price FROM (product INNER JOIN cashier ON product.id_cashier=cashier.id) INNER JOIN category ON product.id_category=category.id;
 
 Untuk soal no 6.b terdapat pada folder "arkademy-static"
