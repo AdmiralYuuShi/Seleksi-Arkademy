@@ -22,3 +22,6 @@ Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6 :
 
 6. Jika data berhasil dimasukkan maka akan ada alert dibawah
 ![halaman_awal](https://i.ibb.co/THsqGK5/berhasil-ditambah.png)
+
+7. Untuk mengubah data, cari data yang ingin diubah pada tabel, lalu klik tombol "Edit"
+![halaman_awal](https://i.ibb.co/y6djFwT/table.png)
