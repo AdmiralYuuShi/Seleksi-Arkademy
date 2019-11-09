@@ -1,6 +1,8 @@
 # Seleksi-Arkademy
 Repository ini dibuat untuk keperluan seleksi Bootcamp Arkademy Batch 13-3
 
+Oleh : Hapid Moch Jamil
+
 Untuk soal no. 1 - no. 5 saya menggunakan bahasa pemrograman Javascript yang dapat dibuka di console browser.
 
 Untuk soal no. 6 saya menggunakan Framework CodeIgniter 3 dan Bootstrap 4 CDN.
@@ -38,3 +40,6 @@ Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6 :
 11. Jika data berhasil dihapus maka akan ada alert dibawah 
 ![halaman_awal](https://i.ibb.co/9sbxHbC/berhasil-dihapus.png)
 
+
+Sekian penjelasan yang dapat saya sampaikan, maaf bila terdapat kesalahan.
+Terima Kasih.
