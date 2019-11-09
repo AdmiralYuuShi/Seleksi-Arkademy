@@ -25,3 +25,16 @@ Berikut ini langkah-langkah untuk menjalankan aplikasi pada soal no. 6 :
 
 7. Untuk mengubah data, cari data yang ingin diubah pada tabel, lalu klik tombol "Edit"
 ![halaman_awal](https://i.ibb.co/y6djFwT/table.png)
+
+8. Isi seluruh data lalu klik tombol "Edit"
+![halaman_awal](https://i.ibb.co/bKkSBC4/edit.png)
+
+9. Jika data berhasil diubah maka akan ada alert dibawah
+![halaman_awal](https://i.ibb.co/b3RhFMr/Berhasil-diedit.png)
+
+10. Untuk menghapus data, cari data yang ingin dihapus pada tabel, lalu klik tombol "Delete"
+![halaman_awal](https://i.ibb.co/y6djFwT/table.png)
+
+11. Jika data berhasil dihapus maka akan ada alert dibawah 
+![halaman_awal](https://i.ibb.co/9sbxHbC/berhasil-dihapus.png)
+
